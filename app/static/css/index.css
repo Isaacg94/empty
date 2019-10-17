@@ -1,0 +1,32 @@
+body {
+    background: #2f3441;
+    color: #fff;
+}
+
+.popular h3 {
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+}
+.upcoming h3{
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+}
+.now_showing h3 {
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+}
+.posters {
+    border: none;
+    border-radius: 12px;
+}
+
+.posters1 {
+    border: 3px solid white;
+    border-radius: 12px;
+}
+.sbmt {
+    text-align: center;
+}
